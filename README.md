@@ -1,1 +1,2 @@
-Weather Forecasting and its Visualization using Augmented Reality(AR):Mobile App
+# Weather Forecasting and its Visualization using Augmented Reality(AR):Mobile App
+This weather forecasting application provides users with accurate and reliable weather forecasts using innovative technologies and advanced algorithms. The application offers a user-friendly interface for accessing weather information, customizable preferences, real-time notifications, and immersive augmented reality (AR) visualizations. Leveraging deep learning models and data preprocessing techniques, the application delivers precise weather predictions tailored to the user's location and preferences.
